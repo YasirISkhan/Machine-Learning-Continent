@@ -1,31 +1,41 @@
-**Unique in my learning:**
-I ensured my learning always remained as diverse and deep as possible. My learning pattern wasn't limited to only lectures and specific notebooks but I experimented with different projects and datasets.
+<h1 align="center">Hi there, I'm Yasir Khan 👋</h1>
 
-**Machine Learning Course Repository**
-Welcome! This repository is your go-to resource for mastering machine learning (ML). Whether you're a beginner or seasoned pro, here's what you'll find:
+<p align="center">
+  <em>Curious mind | ML Explorer | Open to Collaboration</em>
+</p>
 
-**Overview:**
-**Intro to ML:** Basics, types, and applications.
-**Python Basics:** Essential libraries like NumPy, Pandas, and Matplotlib.
-**Supervised Learning:** Regression, classification, and more.
-**Unsupervised Learning:** Clustering and dimensionality reduction.
-**Model Evaluation:** Metrics and cross-validation.
-**Structure:**
-**Code Examples: **Python scripts and Jupyter notebooks.
-**Datasets: **Training and testing data.
-Projects: Hands-on exercises.
-**How to Use:**
-Clone this repository.
-Experiment with notebooks and code.
-Experiment with datasets and projects.
-Explore additional resources.
+---
 
-**Contributions:**
-Welcome! Submit pull requests for updates.
-Maintain coding style and docs.
-Discuss major changes in issues.
-**Feedback:**
-We value your input! Open issues or contact us.
+## 🌟 Unique in My Learning
 
+I ensure my learning is **diverse and deep**. Instead of sticking only to lectures and notebooks, I constantly experiment with a variety of **projects**, **real-world datasets**, and **open-source tools** to sharpen my understanding and problem-solving skills.
 
-Built by --> Yasir Khan
+---
+
+## 📘 Machine Learning Course Repository
+
+Welcome! This repository is your go-to resource for mastering Machine Learning (ML) — whether you're a **beginner** or a **seasoned pro**.
+
+### 📚 Overview
+
+- **Intro to ML**: Basics, types, and real-world applications.
+- **Python Essentials**: NumPy, Pandas, Matplotlib, and more.
+- **Supervised Learning**: Regression, classification techniques.
+- **Unsupervised Learning**: Clustering, dimensionality reduction.
+- **Model Evaluation**: Metrics, validation techniques.
+
+---
+
+### 🧰 Structure
+
+- 📂 **Code Examples**: Python scripts & Jupyter notebooks
+- 📊 **Datasets**: Sample training & testing data
+- 🚀 **Projects**: Hands-on tasks to apply concepts
+
+---
+
+### 🛠️ How to Use
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/YasirISkhan/Machine-Learning-Continent.git
