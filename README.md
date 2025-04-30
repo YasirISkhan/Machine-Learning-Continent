@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yasir Khan 👋</h1>
+<h1 align="center"> My Machine Learning Journey 👋</h1>
 
 <p align="center">
   <em>Curious mind | ML Explorer | Open to Collaboration</em>
@@ -8,7 +8,7 @@
 
 ## 🌟 Unique in My Learning
 
-I ensure my learning is **diverse and deep**. Instead of sticking only to lectures and notebooks, I constantly experiment with a variety of **projects**, **real-world datasets**, and **open-source tools** to sharpen my understanding and problem-solving skills.
+I ensured my learning is as **diverse and deep** as possible. Instead of sticking only to lectures and notebooks, I constantly experimented with a variety of **projects**, **real-world datasets**, and **open-source tools** to sharpen my understanding and problem-solving skills.
 
 ---
 
@@ -33,6 +33,9 @@ Welcome! This repository is your go-to resource for mastering Machine Learning (
 - 🚀 **Projects**: Hands-on tasks to apply concepts
 
 ---
+
+👤 **Built by**
+**Yasir Khan**
 
 ### 🛠️ How to Use
 
